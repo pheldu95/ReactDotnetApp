@@ -1,0 +1,9 @@
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.dll
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.dll
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.pdb

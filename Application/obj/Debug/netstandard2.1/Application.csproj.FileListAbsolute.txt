@@ -1,0 +1,14 @@
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/bin/Debug/netstandard2.1/Application.deps.json
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/bin/Debug/netstandard2.1/Application.dll
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/bin/Debug/netstandard2.1/Application.pdb
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/bin/Debug/netstandard2.1/Domain.dll
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/bin/Debug/netstandard2.1/Persistence.dll
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/bin/Debug/netstandard2.1/Domain.pdb
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/bin/Debug/netstandard2.1/Persistence.pdb
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/obj/Debug/netstandard2.1/Application.csprojAssemblyReference.cache
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/obj/Debug/netstandard2.1/Application.AssemblyInfoInputs.cache
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/obj/Debug/netstandard2.1/Application.AssemblyInfo.cs
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/obj/Debug/netstandard2.1/Application.csproj.CoreCompileInputs.cache
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/obj/Debug/netstandard2.1/Application.csproj.CopyComplete
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/obj/Debug/netstandard2.1/Application.dll
+/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/obj/Debug/netstandard2.1/Application.pdb
