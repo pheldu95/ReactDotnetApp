@@ -24,6 +24,8 @@ namespace API
                     //try to create the database, if it doesn't exist yet
                     var context = services.GetRequiredService<DataContext>();
                     context.Database.Migrate();
+                    //seed our data from Seed.cs in Domain
+                    Seed.SeedData(context);
                 }catch(Exception ex){
                     //log out our error
                     var logger = services.GetRequiredService<ILogger<Program>>();

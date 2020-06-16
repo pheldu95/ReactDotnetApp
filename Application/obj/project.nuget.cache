@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "aQLqqSFWqRzP7ILO1eNgzvC3L1pCQHyQ33ZTk76az3vmOaulBMxM3nlKJC8ZxGWkErgVmS0X0ChMF2SJIzbq5g==",
+  "dgSpecHash": "KzBYNQdIOVRa2p9mFY98griqQTgzvt9pCT0jtkGhgeytViqftqOV1tzMdb0h4P5lzbEneTPf7T/ElUXhLqCkVQ==",
   "success": true,
   "projectFilePath": "/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/duncanphelps/.nuget/packages/mediatr/8.0.0/mediatr.8.0.0.nupkg.sha512",
+    "/Users/duncanphelps/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/8.0.0/mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
     "/Users/duncanphelps/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "/Users/duncanphelps/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "/Users/duncanphelps/.nuget/packages/microsoft.data.sqlite.core/3.1.3/microsoft.data.sqlite.core.3.1.3.nupkg.sha512",

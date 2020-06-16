@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "r723i/QyaZiTvjXHfiM6VNsyCWCcyL5EI0cYmy49nXD/LQOHLumsbxJVwSWw7CVLOGBmSBsD+zj6cgHMkakezw==",
+  "dgSpecHash": "AHP+wiKFIr/vVht0vVvwQzc/py9p61m+3eqKrxppM+acMA7PuGFza/fK/T5Cy0VuGU099BROvso2v7tPyoLJBQ==",
   "success": true,
   "projectFilePath": "/Users/duncanphelps/Documents/Learning/dotnet/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/duncanphelps/.nuget/packages/mediatr/8.0.0/mediatr.8.0.0.nupkg.sha512",
+    "/Users/duncanphelps/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/8.0.0/mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/duncanphelps/.nuget/packages/mediatr.extensions.microsoft.dependencyinjectionfixed/5.1.2/mediatr.extensions.microsoft.dependencyinjectionfixed.5.1.2.nupkg.sha512",
     "/Users/duncanphelps/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "/Users/duncanphelps/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "/Users/duncanphelps/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

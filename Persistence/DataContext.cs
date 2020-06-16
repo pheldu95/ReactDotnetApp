@@ -16,6 +16,9 @@ namespace Persistence
         //we need to add this as a service to the app.
         public DbSet<Value> Values { get; set; }
 
+        //new dbset for the migration. table with rows of type activity
+        //from Domain namespace
+        public DbSet<Activity> Activities { get; set; }
         protected override void OnModelCreating(ModelBuilder builder){
             builder.Entity<Value>()
                 .HasData(
